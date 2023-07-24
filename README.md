@@ -1,0 +1,1 @@
+# quarkus-cache-key-interface
